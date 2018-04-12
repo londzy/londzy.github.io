@@ -58,7 +58,7 @@ body {
 
 
 .Home{
-  padding: 0px 15px;
+  padding: 0px 12px;
   width: 100%;
   border-left: none;
   height: 100%;
@@ -75,7 +75,8 @@ body {
   background: #fff;
   min-height:100%;
   right: 600px;
-  bottom: 900px;
+  bottom: 700px;
+  font-family: monospace;
 }
 
 .Home, h1{
